@@ -10,3 +10,4 @@ app.listen(5000, (err) => {
     ? console.log("error", err)
     : console.log("server is runnig on port 5000");
 });
+navigator
